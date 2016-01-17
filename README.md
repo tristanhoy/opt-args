@@ -1,4 +1,4 @@
-# Simple and unobtrusive function overloads for optional arguments
+# Simple and unobtrusive JS function overloads for optional arguments
 
 ## Motivation
 There are [plenty](npmjs.com/package/fonksiyon) [of](npmjs.com/package/mutate.js) [npm](npmjs.com/package/overloadable) [modules](npmjs.com/package/overloader) [out](npmjs.com/package/overloading) [there](npmjs.com/package/overload-js) that let you do really [complex](npmjs.com/package/parametric), [typed](npmjs.com/package/polymorf) [function](npmjs.com/package/polymorphic) [overloading](npmjs.com/package/uber.js), but 90% of the time all that's needed is to create convenience methods with less parameters that 'drop' optional arguments.

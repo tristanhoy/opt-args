@@ -1,7 +1,7 @@
 {
   "name": "opt-args",
   "version": "1.0.0",
-  "description": "Simple and unobtrusive function overloads for optional arguments",
+  "description": "Simple and unobtrusive JS function overloads for optional arguments",
   "main": "lib/index.js",
   "scripts": {
     "test": "mocha test --require test/helpers/init.js"
