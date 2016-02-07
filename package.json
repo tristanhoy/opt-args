@@ -1,17 +1,21 @@
 {
   "name": "opt-args",
-  "version": "1.0.0",
-  "description": "Simple and unobtrusive JS function overloads for optional arguments",
+  "version": "1.0.1",
+  "description": "Simple function overloads for optional arguments",
   "main": "lib/index.js",
   "scripts": {
     "test": "mocha test --require test/helpers/init.js"
   },
+  "keywords": [ "overload", "poly", "polymorphic", "optional", "argument", "arguments", "args", "params", "parameters", "function"  ],
   "author": {
 	"name": "Tristan Hoy"
   },
-  "repository" : {
+  "repository": {
     "type": "git",
     "url": "http://github.com/tristanhoy/opt-args"
+  },
+  "bugs": {
+	"url": "https://github.com/tristanhoy/opt-args/issues"
   },
   "license": "ISC",
   "devDependencies": {
